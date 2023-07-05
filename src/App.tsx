@@ -2,6 +2,7 @@ import Formulario from './componentes/Formulario';
 import Time from './componentes/Time';
 import Banner from './componentes/Banner'
 import { IColaborador } from './compartilhado/interfaces/IColaborador';
+import { useState } from 'react';
 
 function App() {
 
